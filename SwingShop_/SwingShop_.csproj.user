@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Category.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBaiTapHienThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDispalyCategorys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGetAndDisplayAllTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKetCa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNewCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNewProduct_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNewProduct_Display.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNewTableZone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNewZone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOrderBillDisplayTest_.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrintOrder_Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRegisterNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSaleProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSelectZoneAndTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTestPostOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyProductPicture.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UXSale\FrmSale01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

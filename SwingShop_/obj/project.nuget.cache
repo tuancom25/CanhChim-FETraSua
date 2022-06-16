@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "lf9RLixkj2YZ1EePmbqqlorejMvY7sA2O04ao/jg6HUIjcVXRQjh0JgeH6N+ozUku2haZ9M7IRBleCj5bS596A==",
+  "success": true,
+  "projectFilePath": "D:\\FinTech_myPayShopping\\SwingShopApp\\SwingShop_\\SwingShop_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.23\\microsoft.extensions.configuration.3.1.23.nupkg.sha512",
+    "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.23\\microsoft.extensions.configuration.abstractions.3.1.23.nupkg.sha512",
+    "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.23\\microsoft.extensions.configuration.fileextensions.3.1.23.nupkg.sha512",
+    "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.23\\microsoft.extensions.configuration.json.3.1.23.nupkg.sha512",
+    "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.23\\microsoft.extensions.fileproviders.abstractions.3.1.23.nupkg.sha512",
+    "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.23\\microsoft.extensions.fileproviders.physical.3.1.23.nupkg.sha512",
+    "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.23\\microsoft.extensions.filesystemglobbing.3.1.23.nupkg.sha512",
+    "C:\\Users\\HELLO\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.23\\microsoft.extensions.primitives.3.1.23.nupkg.sha512",
+    "C:\\Users\\HELLO\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
